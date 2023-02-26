@@ -4,8 +4,8 @@ RENCANA KONTEN DEVID
   * Desain website
   * Maintenence 
 - Applikasi
-- Struktur data dasar
-  * mempelajari VSC
 - Video editor
 - Programer
+  * javascript
+  * css
 - Interview
