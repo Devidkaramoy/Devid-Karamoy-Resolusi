@@ -5,6 +5,7 @@ RENCANA KONTEN DEVID
   * Maintenence 
 - Applikasi
 - Struktur data dasar
+  * mempelajari VSC
 - Video editor
 - Programer
 - Interview
